@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fkhi2-3.fna.fbcdn.net/v/t39.30808-6/332456532_589502429738012_4750255064721774577_n.png?_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_ohc=iEli7u8D9eUAX9yTrMK&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfAgKvnKQuckW9zLMVfhby___u9LAUC11eN8maI_z8rFHA&oe=657EE8D1)](https://github.com/shaykhmirzaban)
+[![MasterHead](https://github.com/shaykhmirzaban/shaykhmirzaban/blob/main/1.png?raw=true)](https://github.com/shaykhmirzaban)
 
 <h1 align="center">Hi 👋, I'm Sheikh Mirzaban</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
